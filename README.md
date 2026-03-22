@@ -46,8 +46,5 @@ This version focuses on **drivetrain control, chassis stability, and structural 
 - Early exposure to **modular robotics concepts**  
 - Effective use of AI as a **learning and guidance tool** while implementing original code  
 
----
 
-## 📷 Project Media / Diagrams *(Optional)*
-![Rover-X1 Concept](https://via.placeholder.com/600x300.png?text=Rover-X1+Diagram+Placeholder)  
-*Replace placeholder with actual images of your rover build*
+
