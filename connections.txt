@@ -1,0 +1,30 @@
+🔵 L298N → ESP32
+Component ESP32 Pin L298N Status
+Motor A IN1 D26 IN1 ✅ Same
+Motor A IN2 D27 IN2 ✅ Same
+Motor B IN3 D14 IN3 ✅ Same
+Motor B IN4 D25 IN4 🔁 Changed (D12 removed)
+ENA 5V ENA ✅ Keep jumper / 5V
+ENB 5V ENB ✅ Keep jumper / 5V
+--------------------
+🔵 Mode Switch
+Switch ESP32
+One side D33
+Other side GND
+INPUT_PULLUP already enabled in code.
+LOW → RC
+HIGH → STRAIGHT FORWARD
+Correct.
+--------------------
+🔵 Power Connections (Very Important)
+Battery 7.4V →
+• Buck converter input ✅
+Buck output 5V →
+• ESP32 5V / VIN pin ✅
+ALL GND COMMON:
+• Battery –
+• Buck –
+• ESP32 GND
+• L298N GND
+This is compulsory.
+--------------------
