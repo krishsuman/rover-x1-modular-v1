@@ -1,14 +1,15 @@
 # Rover-X1 Modular v1
-
-[![Beginner Project](https://img.shields.io/badge/Level-Beginner-blue)](https://github.com/) [![AI-assisted](https://img.shields.io/badge/AI-Assisted-yellow)](https://openai.com/)
-
----
+[Beginner Project](https://github.com/) | [AI-assisted](https://openai.com/)
 
 ## 🚀 Overview
-Rover-X1 is a **modular RC rover platform** designed as a foundational system for future robotics projects.  
-This version focuses on **drivetrain control, chassis stability, and structural optimization** for small-scale applications, such as **mini item delivery in classrooms or compact environments**.
+Rover-X1 is a **modular RC rover platform** built as a foundational system for learning and developing robotics projects.
 
-> **Note:** This project was developed in my **beginner phase**, with guidance and assistance from AI tools for learning and reference. All implementations, testing, and customization were done by me.
+This version focuses on **drivetrain control, chassis stability, and structural optimization** for small-scale applications such as **mini item delivery in controlled environments**.
+
+The project also includes a **Bluetooth-based speaker amplifier module**, enabling wireless audio output from a mobile device. This adds a basic layer of **audio capability**, supporting future expansion into **voice-based control and smart interaction systems**.
+
+**Note:**  
+This project was developed during my **beginner phase**, with guidance and assistance from AI tools for learning and reference. All implementations, testing, and customization were done by me.
 
 ---
 
@@ -17,34 +18,37 @@ This version focuses on **drivetrain control, chassis stability, and structural 
 - **Motor Control:** L298N dual motor driver  
 - **Chassis:** Lightweight custom structure  
 - **Power Source:** Battery-powered mobile platform  
+- **Audio System:** Bluetooth-enabled speaker amplifier module  
 
 ---
 
 ## 🎯 Primary Functions
-- Remote-controlled (RC) **straight-line and precise movement**  
-- **Mini item delivery** within classrooms, rooms, or compact environments  
+- Remote-controlled (RC) **precise movement control**  
+- **Mini item delivery** in controlled environments  
+- **Bluetooth audio output** through speaker amplifier  
+- Base for future **voice interaction and smart control features**
 
 ---
 
 ## 📈 Development Status
 - Base RC platform fully functional  
-- Undergoing **iterative testing** for mechanical balance, load distribution, and control responsiveness  
+- Bluetooth audio system integrated  
+- Ongoing testing for **mechanical stability and control accuracy**
 
 ---
 
-## 🔧 Upcoming Enhancements *(Optional / Planned)*
-- Modular **magnetic attachment interface**  
+## 🔧 Upcoming Enhancements
+- Modular **magnetic attachment system**  
 - **Obstacle avoidance** integration  
-- Improved structural layout and **wire management**  
-- Refined **motor driver upgrade**  
+- Improved **wire management and layout design**  
+- Motor driver optimization  
+- Exploration of **voice-based AI interaction (via mobile + Bluetooth)**  
 
 ---
 
-## 💡 Key Learning Points
-- Hands-on experience with **motor control and electronics**  
-- Understanding **chassis design and stability**  
-- Early exposure to **modular robotics concepts**  
-- Effective use of AI as a **learning and guidance tool** while implementing original code  
-
-
-
+## 💡 Key Learning Outcomes
+- Practical experience with **motor control and embedded systems**  
+- Understanding **robot chassis design and stability**  
+- Basics of **Bluetooth communication and audio systems**  
+- Modular system thinking in robotics  
+- Effective use of AI as a **learning and development tool**
