@@ -63,4 +63,4 @@ This project was developed during my **beginner phase**, with guidance and assis
 
 ## 🔗 Connect
 
-[LinkedIn Profile](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
+[LinkedIn Profile](https://www.linkedin.com/in/krish-suman-4334a3399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
