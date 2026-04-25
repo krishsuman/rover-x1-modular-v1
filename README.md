@@ -60,3 +60,7 @@ This project was developed during my **beginner phase**, with guidance and assis
 ![View 1](https://github.com/krishsuman/rover-x1-modular-v1/blob/main/images/IMG_20260424_201447.png)
 ![View 2](https://github.com/krishsuman/rover-x1-modular-v1/blob/main/images/IMG_20260424_201508.png)
 ![View 3](https://github.com/krishsuman/rover-x1-modular-v1/blob/main/images/IMG_20260424_201528.png)
+
+## 🔗 Connect
+
+[LinkedIn Profile](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
