@@ -52,3 +52,11 @@ This project was developed during my **beginner phase**, with guidance and assis
 - Basics of **Bluetooth communication and audio systems**  
 - Modular system thinking in robotics  
 - Effective use of AI as a **learning and development tool**
+
+## 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1CFXbZmU_NMEP88ro3T0ej_VY16v7XwSZ/view?usp=drivesdk)
+
+## 📸 Project Images
+![View 1](IMG_20260424_201447.png)
+![View 2](IMG_20260424_201508.png)
+![View 3](IMG_20260424_201528.png)
