@@ -57,6 +57,6 @@ This project was developed during my **beginner phase**, with guidance and assis
 [Watch Demo](https://drive.google.com/file/d/1CFXbZmU_NMEP88ro3T0ej_VY16v7XwSZ/view?usp=drivesdk)
 
 ## 📸 Project Images
-![View 1](IMG_20260424_201447.png)
-![View 2](IMG_20260424_201508.png)
-![View 3](IMG_20260424_201528.png)
+![View 1](https://github.com/krishsuman/rover-x1-modular-v1/blob/main/images/IMG_20260424_201447.png)
+![View 2](https://github.com/krishsuman/rover-x1-modular-v1/blob/main/images/IMG_20260424_201508.png)
+![View 3](https://github.com/krishsuman/rover-x1-modular-v1/blob/main/images/IMG_20260424_201528.png)
