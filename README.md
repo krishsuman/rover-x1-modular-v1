@@ -37,15 +37,6 @@ This project was developed during my **beginner phase**, with guidance and assis
 
 ---
 
-## 🔧 Upcoming Enhancements
-- Modular **magnetic attachment system**  
-- **Obstacle avoidance** integration  
-- Improved **wire management and layout design**  
-- Motor driver optimization  
-- Exploration of **voice-based AI interaction (via mobile + Bluetooth)**  
-
----
-
 ## 💡 Key Learning Outcomes
 - Practical experience with **motor control and embedded systems**  
 - Understanding **robot chassis design and stability**  
