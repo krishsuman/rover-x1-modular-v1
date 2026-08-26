@@ -1,4 +1,4 @@
-# Rover-X1 Modular v1
+# Rover-X Modular v1
 [Beginner Project](https://github.com/) | [AI-assisted](https://openai.com/)
 
 ## 🚀 Overview
